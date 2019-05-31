@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Capítulo 1: Arrancamos'
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
