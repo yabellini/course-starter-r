@@ -2,14 +2,14 @@
 type: slides
 ---
 
-# Introduction
+# Introducción
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
-speaker notes on the side. Slides can be separated with a divider: ---.
+Notas: el texto al final de una diapositiva con este prefijo se mostrará como
+Notas del orador en el lateral. Las diapositivas se pueden separar con un divisor: ---.
 
 ---
 
-# This is a slide
+# Esta es una diapositiva
 
 ```r
 # Print something
