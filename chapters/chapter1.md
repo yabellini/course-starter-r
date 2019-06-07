@@ -15,9 +15,9 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Arancando">
 
-Let's ask some questions about the slides. Whats the correct answer?
+Vamos a hacer algunas preguntas sobre las diapositivas. ¿Cuál es la respuesta correcta?
 
 <choice>
 <opt text="Answer one">
